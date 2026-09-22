@@ -1,0 +1,1157 @@
+{
+  "capturedAt": "2026-09-20T16:56:04.403Z",
+  "source": "U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers (CPI-U), U.S. city average, not seasonally adjusted",
+  "endYear": 2025,
+  "pages": [
+    {
+      "id": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "finalUrl": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false,
+      "text": "runs/20260920-215604-data/bls.json"
+    }
+  ],
+  "facts": [
+    {
+      "id": "sa0_first_year",
+      "value": 1947,
+      "unit": "первый полный год ряда",
+      "quote": "All items: 1947=22.325",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "All items: 2025=321.943",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1947_2025_pct",
+      "value": 1342,
+      "unit": "% изменения индекса 1947→2025",
+      "quote": "All items: 1947=22.325, 2025=321.943 → +1342%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1947_2025_x",
+      "value": 14.4,
+      "unit": "во сколько раз 1947→2025",
+      "quote": "All items: 321.943/22.325 = 14.4",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1967_2025_pct",
+      "value": 865,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "All items: 1967=33.358, 2025=321.943 → +865%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1967_2025_x",
+      "value": 9.7,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "All items: 321.943/33.358 = 9.7",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1998_2025_pct",
+      "value": 98,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "All items: 1998=163.008, 2025=321.943 → +98%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sa0_1998_2025_x",
+      "value": 2,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "All items: 321.943/163.008 = 2",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_first_year",
+      "value": 1947,
+      "unit": "первый полный год ряда",
+      "quote": "Medical care: 1947=13.542",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Medical care: 2025=580.102",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1947_2025_pct",
+      "value": 4184,
+      "unit": "% изменения индекса 1947→2025",
+      "quote": "Medical care: 1947=13.542, 2025=580.102 → +4184%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1947_2025_x",
+      "value": 42.8,
+      "unit": "во сколько раз 1947→2025",
+      "quote": "Medical care: 580.102/13.542 = 42.8",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1967_2025_pct",
+      "value": 1961,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Medical care: 1967=28.15, 2025=580.102 → +1961%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1967_2025_x",
+      "value": 20.6,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Medical care: 580.102/28.15 = 20.6",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1998_2025_pct",
+      "value": 140,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Medical care: 1998=242.133, 2025=580.102 → +140%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sam_1998_2025_x",
+      "value": 2.4,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Medical care: 580.102/242.133 = 2.4",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "semd01_first_year",
+      "value": 1997,
+      "unit": "первый полный год ряда",
+      "quote": "Hospital services: 1997=101.692",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "semd01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Hospital services: 2025=433.655",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "semd01_1998_2025_pct",
+      "value": 313,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Hospital services: 1998=104.95, 2025=433.655 → +313%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "semd01_1998_2025_x",
+      "value": 4.1,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Hospital services: 433.655/104.95 = 4.1",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb01_first_year",
+      "value": 1978,
+      "unit": "первый полный год ряда",
+      "quote": "College tuition and fees: 1978=59.908",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "College tuition and fees: 2025=955.326",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb01_1998_2025_pct",
+      "value": 212,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "College tuition and fees: 1998=306.525, 2025=955.326 → +212%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb01_1998_2025_x",
+      "value": 3.1,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "College tuition and fees: 955.326/306.525 = 3.1",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_first_year",
+      "value": 1967,
+      "unit": "первый полный год ряда",
+      "quote": "Educational books and supplies: 1967=33.683",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Educational books and supplies: 2025=763.202",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_1967_2025_pct",
+      "value": 2166,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Educational books and supplies: 1967=33.683, 2025=763.202 → +2166%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_1967_2025_x",
+      "value": 22.7,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Educational books and supplies: 763.202/33.683 = 22.7",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_1998_2025_pct",
+      "value": 204,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Educational books and supplies: 1998=250.75, 2025=763.202 → +204%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seea_1998_2025_x",
+      "value": 3,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Educational books and supplies: 763.202/250.75 = 3",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb03_first_year",
+      "value": 1991,
+      "unit": "первый полный год ряда",
+      "quote": "Child care and nursery school: 1991=103.192",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb03_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Child care and nursery school: 2025=386.417",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb03_1998_2025_pct",
+      "value": 174,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Child care and nursery school: 1998=140.883, 2025=386.417 → +174%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seeb03_1998_2025_x",
+      "value": 2.7,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Child care and nursery school: 386.417/140.883 = 2.7",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_first_year",
+      "value": 1953,
+      "unit": "первый полный год ряда",
+      "quote": "Shelter: 1953=22",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Shelter: 2025=415.164",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_1967_2025_pct",
+      "value": 1343,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Shelter: 1967=28.767, 2025=415.164 → +1343%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_1967_2025_x",
+      "value": 14.4,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Shelter: 415.164/28.767 = 14.4",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_1998_2025_pct",
+      "value": 128,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Shelter: 1998=182.108, 2025=415.164 → +128%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sah1_1998_2025_x",
+      "value": 2.3,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Shelter: 415.164/182.108 = 2.3",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_first_year",
+      "value": 1947,
+      "unit": "первый полный год ряда",
+      "quote": "Food at home: 1947=25.842",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Food at home: 2025=313.266",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1947_2025_pct",
+      "value": 1112,
+      "unit": "% изменения индекса 1947→2025",
+      "quote": "Food at home: 1947=25.842, 2025=313.266 → +1112%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1947_2025_x",
+      "value": 12.1,
+      "unit": "во сколько раз 1947→2025",
+      "quote": "Food at home: 313.266/25.842 = 12.1",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1967_2025_pct",
+      "value": 792,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Food at home: 1967=35.117, 2025=313.266 → +792%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1967_2025_x",
+      "value": 8.9,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Food at home: 313.266/35.117 = 8.9",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1998_2025_pct",
+      "value": 94,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Food at home: 1998=161.133, 2025=313.266 → +94%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saf11_1998_2025_x",
+      "value": 1.9,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Food at home: 313.266/161.133 = 1.9",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_first_year",
+      "value": 1953,
+      "unit": "первый полный год ряда",
+      "quote": "New vehicles: 1953=47.25",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "New vehicles: 2025=178.462",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_1967_2025_pct",
+      "value": 262,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "New vehicles: 1967=49.35, 2025=178.462 → +262%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_1967_2025_x",
+      "value": 3.6,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "New vehicles: 178.462/49.35 = 3.6",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_1998_2025_pct",
+      "value": 24,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "New vehicles: 1998=143.442, 2025=178.462 → +24%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seta01_1998_2025_x",
+      "value": 1.2,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "New vehicles: 178.462/143.442 = 1.2",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_first_year",
+      "value": 1952,
+      "unit": "первый полный год ряда",
+      "quote": "Electricity: 1952=27.65",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Electricity: 2025=292.027",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_1967_2025_pct",
+      "value": 876,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Electricity: 1967=29.925, 2025=292.027 → +876%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_1967_2025_x",
+      "value": 9.8,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Electricity: 292.027/29.925 = 9.8",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_1998_2025_pct",
+      "value": 129,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Electricity: 1998=127.35, 2025=292.027 → +129%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehf01_1998_2025_x",
+      "value": 2.3,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Electricity: 292.027/127.35 = 2.3",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_first_year",
+      "value": 1947,
+      "unit": "первый полный год ряда",
+      "quote": "Apparel: 1947=39.858",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Apparel: 2025=131.311",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1947_2025_pct",
+      "value": 229,
+      "unit": "% изменения индекса 1947→2025",
+      "quote": "Apparel: 1947=39.858, 2025=131.311 → +229%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1947_2025_x",
+      "value": 3.3,
+      "unit": "во сколько раз 1947→2025",
+      "quote": "Apparel: 131.311/39.858 = 3.3",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1967_2025_pct",
+      "value": 157,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Apparel: 1967=51.017, 2025=131.311 → +157%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1967_2025_x",
+      "value": 2.6,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Apparel: 131.311/51.017 = 2.6",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1998_2025_pct",
+      "value": -1,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Apparel: 1998=133.025, 2025=131.311 → -1%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1998_2025_x",
+      "value": 1,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Apparel: 131.311/133.025 = 1",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "saa_1998_2025_drop",
+      "value": 1,
+      "unit": "% снижения 1998→2025",
+      "quote": "Apparel: 1998=133.025, 2025=131.311 → −1%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_first_year",
+      "value": 1967,
+      "unit": "первый полный год ряда",
+      "quote": "Televisions: 1967=9760.992",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Televisions: 2025=95.947",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1967_2025_pct",
+      "value": -99,
+      "unit": "% изменения индекса 1967→2025",
+      "quote": "Televisions: 1967=9760.992, 2025=95.947 → -99%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1967_2025_x",
+      "value": 0,
+      "unit": "во сколько раз 1967→2025",
+      "quote": "Televisions: 95.947/9760.992 = 0",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1967_2025_drop",
+      "value": 99,
+      "unit": "% снижения 1967→2025",
+      "quote": "Televisions: 1967=9760.992, 2025=95.947 → −99%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1998_2025_pct",
+      "value": -98,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Televisions: 1998=5764.175, 2025=95.947 → -98%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1998_2025_x",
+      "value": 0,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Televisions: 95.947/5764.175 = 0",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera01_1998_2025_drop",
+      "value": 98,
+      "unit": "% снижения 1998→2025",
+      "quote": "Televisions: 1998=5764.175, 2025=95.947 → −98%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sere01_first_year",
+      "value": 1978,
+      "unit": "первый полный год ряда",
+      "quote": "Toys: 1978=75.525",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sere01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Toys: 2025=27.823",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sere01_1998_2025_pct",
+      "value": -77,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Toys: 1998=119.85, 2025=27.823 → -77%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sere01_1998_2025_x",
+      "value": 0.2,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Toys: 27.823/119.85 = 0.2",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sere01_1998_2025_drop",
+      "value": 77,
+      "unit": "% снижения 1998→2025",
+      "quote": "Toys: 1998=119.85, 2025=27.823 → −77%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee01_first_year",
+      "value": 1998,
+      "unit": "первый полный год ряда",
+      "quote": "Computers, peripherals, and smart home assistants: 1998=875.017",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee01_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Computers, peripherals, and smart home assistants: 2025=34.759",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee01_1998_2025_pct",
+      "value": -96,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Computers, peripherals, and smart home assistants: 1998=875.017, 2025=34.759 → -96%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee01_1998_2025_x",
+      "value": 0,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Computers, peripherals, and smart home assistants: 34.759/875.017 = 0",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee01_1998_2025_drop",
+      "value": 96,
+      "unit": "% снижения 1998→2025",
+      "quote": "Computers, peripherals, and smart home assistants: 1998=875.017, 2025=34.759 → −96%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee02_first_year",
+      "value": 1998,
+      "unit": "первый полный год ряда",
+      "quote": "Computer software and accessories: 1998=95.483",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee02_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Computer software and accessories: 2025=23.443",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee02_1998_2025_pct",
+      "value": -75,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Computer software and accessories: 1998=95.483, 2025=23.443 → -75%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee02_1998_2025_x",
+      "value": 0.2,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Computer software and accessories: 23.443/95.483 = 0.2",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seee02_1998_2025_drop",
+      "value": 75,
+      "unit": "% снижения 1998→2025",
+      "quote": "Computer software and accessories: 1998=95.483, 2025=23.443 → −75%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seed03_first_year",
+      "value": 1998,
+      "unit": "первый полный год ряда",
+      "quote": "Wireless telephone services: 1998=95.125",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seed03_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Wireless telephone services: 2025=46.51",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seed03_1998_2025_pct",
+      "value": -51,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Wireless telephone services: 1998=95.125, 2025=46.51 → -51%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seed03_1998_2025_x",
+      "value": 0.5,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Wireless telephone services: 46.51/95.125 = 0.5",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "seed03_1998_2025_drop",
+      "value": 51,
+      "unit": "% снижения 1998→2025",
+      "quote": "Wireless telephone services: 1998=95.125, 2025=46.51 → −51%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera02_first_year",
+      "value": 1984,
+      "unit": "первый полный год ряда",
+      "quote": "Other video equipment: 1984=103.85",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera02_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Other video equipment: 2025=596.484",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera02_1998_2025_pct",
+      "value": 143,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Other video equipment: 1998=245.2, 2025=596.484 → +143%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sera02_1998_2025_x",
+      "value": 2.4,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Other video equipment: 596.484/245.2 = 2.4",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehj_first_year",
+      "value": 1969,
+      "unit": "первый полный год ряда",
+      "quote": "Household furnishings and operations: 1969=50.908",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehj_last_year",
+      "value": 2025,
+      "unit": "последний полный год ряда",
+      "quote": "Household furnishings and operations: 2025=132.631",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehj_1998_2025_pct",
+      "value": -2,
+      "unit": "% изменения индекса 1998→2025",
+      "quote": "Household furnishings and operations: 1998=135.033, 2025=132.631 → -2%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehj_1998_2025_x",
+      "value": 1,
+      "unit": "во сколько раз 1998→2025",
+      "quote": "Household furnishings and operations: 132.631/135.033 = 1",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "sehj_1998_2025_drop",
+      "value": 2,
+      "unit": "% снижения 1998→2025",
+      "quote": "Household furnishings and operations: 1998=135.033, 2025=132.631 → −2%",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "medical_vs_all_1947_2025_x",
+      "value": 3,
+      "unit": "отношение множителей 1947→2025",
+      "quote": "medical care vs all items: 42.84 / 14.42",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "medical_vs_all_1967_2025_x",
+      "value": 2.1,
+      "unit": "отношение множителей 1967→2025",
+      "quote": "medical care vs all items: 20.61 / 9.65",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "tuition_vs_all_1998_2025_x",
+      "value": 1.6,
+      "unit": "отношение множителей 1998→2025",
+      "quote": "college tuition vs all items: 3.12 / 1.98",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "hospital_vs_all_1998_2025_x",
+      "value": 2.1,
+      "unit": "отношение множителей 1998→2025",
+      "quote": "hospital services vs all items: 4.13 / 1.98",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "shelter_vs_all_1967_2025_x",
+      "value": 1.5,
+      "unit": "отношение множителей 1967→2025",
+      "quote": "shelter vs all items: 14.43 / 9.65",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "series_count",
+      "value": 18,
+      "unit": "рядов в снимке",
+      "quote": "18 series",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "data_years",
+      "value": 80,
+      "unit": "лет в снимке 1947–2026",
+      "quote": "BLS CPI-U 1947–2026",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    },
+    {
+      "id": "end_year",
+      "value": 2025,
+      "unit": "последний полный год",
+      "quote": "2025",
+      "page": "bls",
+      "url": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+      "capturedAt": "2026-09-20T16:56:04.403Z",
+      "usd": false
+    }
+  ]
+}
