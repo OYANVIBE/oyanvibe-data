@@ -1,0 +1,7757 @@
+{
+  "capturedAt": "2026-09-20T16:56:04.403Z",
+  "source": "U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers (CPI-U), U.S. city average, not seasonally adjusted",
+  "api": "https://api.bls.gov/publicAPI/v1/timeseries/data/",
+  "fullMonths": 11,
+  "request": {
+    "startYear": 1947,
+    "endYear": 2026,
+    "requests": 8,
+    "seriesCount": 18
+  },
+  "note": "Ролик #6 «Two Economies» (трек A). Индекс потребительских цен США, BLS CPI-U, U.S. city average, не сезонно скорректированный (CUUR0000…). Источник: BLS Public Data API v1 (без ключа: POST, ≤25 серий, ≤10 лет на запрос). Годовые средние считаем из месячных значений; год с <12 месяцами помечается partial.",
+  "series": [
+    {
+      "id": "CUUR0000SA0",
+      "label": "All items",
+      "group": "benchmark",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 1342.1,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 22.325,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1948,
+          "value": 24.042,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1949,
+          "value": 23.808,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1950,
+          "value": 24.067,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1951,
+          "value": 25.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1952,
+          "value": 26.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1953,
+          "value": 26.767,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 26.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 26.775,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 27.183,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 28.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 28.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 29.15,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 29.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 29.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 30.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 30.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 31.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 31.508,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 32.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 33.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 34.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 36.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 38.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 40.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 41.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 44.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 49.308,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 53.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 56.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 60.608,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 65.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 72.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 82.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 90.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 96.5,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 99.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 103.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 107.567,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 109.608,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 113.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 118.258,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 123.967,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 130.658,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 136.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 140.317,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 144.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 148.225,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 152.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 156.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 160.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 163.008,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 166.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 172.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 177.067,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 179.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 183.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 188.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 195.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 201.592,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 207.342,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 215.303,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 214.537,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 218.055,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 224.939,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 229.594,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 232.957,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 236.736,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 237.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 240.007,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 245.12,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 251.107,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 255.657,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 258.811,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 270.97,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 292.655,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 304.702,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 313.689,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 321.943,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 331.655,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 955
+    },
+    {
+      "id": "CUUR0000SAM",
+      "label": "Medical care",
+      "group": "rose",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 4183.7,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 13.542,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1948,
+          "value": 14.375,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1949,
+          "value": 14.842,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1950,
+          "value": 15.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1951,
+          "value": 15.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1952,
+          "value": 16.7,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1953,
+          "value": 17.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 17.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 18.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 18.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 19.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 20.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 21.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 22.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 22.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 23.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 24.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 24.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 25.183,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 26.3,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 28.15,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 29.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 31.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 33.95,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 36.15,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 37.317,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 38.758,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 42.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 47.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 51.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 56.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 61.767,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 67.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 74.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 82.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 92.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 100.592,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 106.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 113.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 122.042,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 130.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 138.642,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 149.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 162.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 177.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 190.067,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 201.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 211.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 220.467,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 228.225,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 234.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 242.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 250.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 260.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 272.758,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 285.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 297.075,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 310.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 323.225,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 336.183,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 351.054,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 364.065,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 375.613,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 388.436,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 400.258,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 414.924,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 425.134,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 435.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 446.752,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 463.675,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 475.322,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 484.707,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 498.413,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 518.876,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 525.276,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 546.554,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 549.084,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 563.841,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 580.102,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 592.435,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 955
+    },
+    {
+      "id": "CUUR0000SEMD01",
+      "label": "Hospital services",
+      "group": "rose",
+      "firstYear": 1996,
+      "lastYear": 2026,
+      "years": 31,
+      "changePctFullSpan": 326.4,
+      "annual": [
+        {
+          "year": 1996,
+          "value": 100,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1997,
+          "value": 101.692,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 104.95,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 109.325,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 115.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 123.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 134.692,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 144.725,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 153.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 161.567,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 172.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 183.551,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 197.186,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 210.731,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 227.227,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 241.213,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 253.563,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 265.448,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 278.754,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 290.132,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 303.26,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 318.17,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 332.237,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 338.814,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 352.952,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 363.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 376.488,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 392.12,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 414.812,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 433.655,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 455.643,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 354
+    },
+    {
+      "id": "CUUR0000SEEB01",
+      "label": "College tuition and fees",
+      "group": "rose",
+      "short": "College tuition",
+      "firstYear": 1977,
+      "lastYear": 2026,
+      "years": 50,
+      "changePctFullSpan": 1494.7,
+      "annual": [
+        {
+          "year": 1977,
+          "value": 57.9,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1978,
+          "value": 59.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 64.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 70.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 79.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 90.325,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 99.725,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 109.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 119.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 129.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 139.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 150,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 161.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 174.967,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 192.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 213.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 233.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 249.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 264.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 279.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 294.1,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 306.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 318.692,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 331.867,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 348.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 372.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 403.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 442.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 475.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 506.967,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 538.687,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 572.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 606.674,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 638.188,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 670.251,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 702.758,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 732.44,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 759.495,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 785.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 807,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 823.129,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 841.332,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 865.354,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 877.263,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 884.885,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 904.005,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 921.413,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 937.295,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 955.326,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 971.184,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 584
+    },
+    {
+      "id": "CUUR0000SEEA",
+      "label": "Educational books and supplies",
+      "group": "rose",
+      "short": "Textbooks & supplies",
+      "firstYear": 1967,
+      "lastYear": 2026,
+      "years": 60,
+      "changePctFullSpan": 2165.8,
+      "annual": [
+        {
+          "year": 1967,
+          "value": 33.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 35.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 37.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 38.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 41.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 44.15,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 45.567,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 47.225,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 50.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 53.65,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 56.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 61.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 65.692,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 71.392,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 80.267,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 90.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 100.325,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 108.742,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 118.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 128.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 138.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 148.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 158.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 171.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 180.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 190.342,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 197.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 205.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 214.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 226.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 238.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 250.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 261.708,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 279.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 295.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 317.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 335.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 351.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 365.642,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 388.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 420.418,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 450.187,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 482.072,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 505.569,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 529.545,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 562.555,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 594.709,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 615.447,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 648.165,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 678.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 689.453,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 696.102,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 685.365,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 677.716,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 687.075,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 712.527,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 701.241,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 711.284,
+          "months": 8,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 2025,
+          "value": 763.202,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 769.599,
+          "months": 5,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 708
+    },
+    {
+      "id": "CUUR0000SEEB03",
+      "label": "Child care and nursery school",
+      "group": "rose",
+      "short": "Child care",
+      "firstYear": 1990,
+      "lastYear": 2026,
+      "years": 37,
+      "changePctFullSpan": 274.5,
+      "annual": [
+        {
+          "year": 1990,
+          "value": 100,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1991,
+          "value": 103.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 108.317,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 113.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 119.558,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 124.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 129.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 134.342,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 140.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 148.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 156.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 164.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 172.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 180.325,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 187.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 195.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 206,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 214.877,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 224.635,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 232.828,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 240.432,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 247.064,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 253.141,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 259.406,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 264.874,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 275.381,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 283.099,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 290.379,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 295.048,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 303.268,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 311.888,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 317.746,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 330.305,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 348.926,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 367.585,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 386.417,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 397.623,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 428
+    },
+    {
+      "id": "CUUR0000SAH1",
+      "label": "Shelter",
+      "group": "rose",
+      "firstYear": 1952,
+      "lastYear": 2026,
+      "years": 75,
+      "changePctFullSpan": 1787.1,
+      "annual": [
+        {
+          "year": 1952,
+          "value": 21.6,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1953,
+          "value": 22,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 22.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 22.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 23.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 23.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 24.467,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 24.733,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 25.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 25.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 25.725,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 26.067,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 26.5,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 26.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 27.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 28.767,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 30.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 32.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 35.542,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 37.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 38.675,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 40.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 44.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 48.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 51.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 54.95,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 60.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 68.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 80.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 90.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 96.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 99.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 103.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 109.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 115.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 121.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 127.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 132.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 139.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 146.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 151.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 155.733,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 160.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 165.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 171.033,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 176.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 182.108,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 187.258,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 193.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 200.558,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 208.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 213.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 218.842,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 224.425,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 232.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 240.611,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 246.666,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 249.354,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 248.396,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 251.646,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 257.084,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 263.056,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 270.513,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 278.803,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 288.23,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 297.803,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 307.663,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 318.053,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 325.885,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 334.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 354.235,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 380.643,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 400.561,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 415.164,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 426.705,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 884
+    },
+    {
+      "id": "CUUR0000SAF11",
+      "label": "Food at home",
+      "group": "middle",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 1112.2,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 25.842,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1948,
+          "value": 28,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1949,
+          "value": 26.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1950,
+          "value": 27.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1951,
+          "value": 30.308,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1952,
+          "value": 30.867,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1953,
+          "value": 30.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 30.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 29.508,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 29.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 30.642,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 31.975,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 31.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 31.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 31.758,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 31.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 32.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 32.775,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 33.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 35.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 35.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 36.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 38.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 39.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 40.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 42.708,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 49.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 57.042,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 61.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 63.058,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 66.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 73.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 81.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 88.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 94.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 98.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 99.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 102.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 104.267,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 107.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 111.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 116.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 124.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 132.317,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 135.842,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 136.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 140.058,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 144.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 148.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 154.3,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 158.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 161.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 164.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 167.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 173.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 175.617,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 179.392,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 186.183,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 189.775,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 193.117,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 201.245,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 214.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 215.124,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 215.836,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 226.201,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 231.774,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 233.869,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 239.456,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 242.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 239.065,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 238.589,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 239.661,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 241.774,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 250.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 258.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 288.451,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 302.929,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 306.536,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 313.266,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 320.221,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 955
+    },
+    {
+      "id": "CUUR0000SETA01",
+      "label": "New vehicles",
+      "group": "middle",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 277.7,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 34.58,
+          "months": 5,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1948,
+          "value": 37.65,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1949,
+          "value": 41.025,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1950,
+          "value": 41.225,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1951,
+          "value": 43.425,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1952,
+          "value": 46.975,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1953,
+          "value": 47.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 46.508,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 44.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 46.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 48.542,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 50.108,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 52.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 51.567,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 51.558,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 51.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 51.05,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 50.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 49.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 48.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 49.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 50.692,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 51.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 53.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 55.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 54.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 54.808,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 57.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 62.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 66.967,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 70.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 75.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 81.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 88.467,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 93.867,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 97.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 99.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 102.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 106.05,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 110.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 114.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 116.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 119.158,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 121.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 125.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 129.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 132.742,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 137.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 140.95,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 143.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 144.25,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 143.442,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 142.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 142.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 142.108,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 140,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 137.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 137.058,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 137.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 137.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 136.254,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 134.194,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 135.623,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 138.005,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 141.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 144.232,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 145.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 146.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 147.135,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 147.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 146.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 146.287,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 146.834,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 147.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 156.24,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 172.48,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 178.899,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 177.887,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 178.462,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 179.183,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 909
+    },
+    {
+      "id": "CUUR0000SEHF01",
+      "label": "Electricity",
+      "group": "middle",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 956.2,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 26.614,
+          "months": 7,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1948,
+          "value": 26.925,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1949,
+          "value": 27.1,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1950,
+          "value": 27.2,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1951,
+          "value": 27.4,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1952,
+          "value": 27.65,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1953,
+          "value": 27.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 28.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 28.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 28.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 28.717,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 29.075,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 29.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 29.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 29.9,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 29.95,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 29.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 29.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 29.658,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 29.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 29.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 30.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 30.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 31.783,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 33.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 35.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 37.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 44.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 49.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 53.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 56.65,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 60.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 65.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 75.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 87.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 95.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 98.917,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 105.258,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 108.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 110.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 110.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 111.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 114.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 117.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 121.775,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 124.175,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 126.65,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 126.708,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 129.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 131.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 132.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 127.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 126.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 128.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 137.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 136.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 139.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 142.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 150.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 169.167,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 175.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 187.146,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 192.712,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 193.095,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 196.737,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 196.63,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 200.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 208.02,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 209.191,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 206.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 211.437,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 212.932,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 213.362,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 214.615,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 223.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 253.127,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 267.804,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 279.087,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 292.027,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 305.053,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 918
+    },
+    {
+      "id": "CUUR0000SAA",
+      "label": "Apparel",
+      "group": "fell",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 229.4,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 39.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1948,
+          "value": 42.508,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1949,
+          "value": 40.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1950,
+          "value": 40.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1951,
+          "value": 43.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1952,
+          "value": 43.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1953,
+          "value": 43.175,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1954,
+          "value": 43.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1955,
+          "value": 42.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1956,
+          "value": 43.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1957,
+          "value": 44.5,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1958,
+          "value": 44.675,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1959,
+          "value": 45.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1960,
+          "value": 45.7,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1961,
+          "value": 46.058,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1962,
+          "value": 46.317,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1963,
+          "value": 46.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1964,
+          "value": 47.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1965,
+          "value": 47.733,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1966,
+          "value": 49.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1967,
+          "value": 51.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 53.742,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 56.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 59.175,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 61.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 62.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 64.642,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 69.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 72.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 75.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 78.608,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 81.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 84.933,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 90.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 95.275,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 97.775,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 100.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 102.033,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 105.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 105.917,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 110.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 115.375,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 118.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 124.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 128.708,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 131.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 133.658,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 133.4,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 131.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 131.7,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 132.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 133.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 131.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 129.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 127.267,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 124.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 120.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 120.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 119.542,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 119.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 118.998,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 118.907,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 120.078,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 119.503,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 122.111,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 126.265,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 127.411,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 127.514,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 125.902,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 126.045,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 125.612,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 125.654,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 124.052,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 118.079,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 120.993,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 127.081,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 130.579,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 131.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 131.311,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 135.979,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 955
+    },
+    {
+      "id": "CUUR0000SERA01",
+      "label": "Televisions",
+      "group": "fell",
+      "firstYear": 1950,
+      "lastYear": 2026,
+      "years": 77,
+      "changePctFullSpan": -99,
+      "annual": [
+        {
+          "year": 1950,
+          "value": 15573.5,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1951,
+          "value": 15145.175,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1952,
+          "value": 13337.2,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1953,
+          "value": 12879.725,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1954,
+          "value": 11979.4,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1955,
+          "value": 11371.05,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1956,
+          "value": 11480.575,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1957,
+          "value": 11981.825,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1958,
+          "value": 12149.725,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1959,
+          "value": 12320.075,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1960,
+          "value": 12388.2,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1961,
+          "value": 12006.15,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1962,
+          "value": 11427.05,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1963,
+          "value": 11173.975,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1964,
+          "value": 10881.9,
+          "months": 2,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1965,
+          "value": 10346.6,
+          "months": 2,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1966,
+          "value": 9954.825,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1967,
+          "value": 9760.992,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1968,
+          "value": 9726.917,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1969,
+          "value": 9711.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 9722.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 9761.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 9704.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 9560.642,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 9649.05,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 9909.417,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 10035.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 9917.533,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 9910.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 10046.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 10183.558,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 10266.292,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 10134.892,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 9785.308,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 9288.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 8628.675,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 8098.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 7758.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 7554.808,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 7403.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 7264.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 7094.842,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 7046.725,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 6877.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 6806.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 6625.625,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 6278,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 6004.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 5764.175,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 5346.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 4858.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 4358.042,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 3904.267,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 3393.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 2921.833,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 2585.308,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 2172.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 1648.678,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 1361.177,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 1032.222,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 777.21,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 645.949,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 528.379,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 445.861,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 383.078,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 328.797,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 265.535,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 229.437,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 191.324,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 154.74,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 133.083,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 140.675,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 125.504,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 111.277,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 104.465,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 95.947,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 93.884,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 776
+    },
+    {
+      "id": "CUUR0000SERE01",
+      "label": "Toys",
+      "group": "fell",
+      "firstYear": 1977,
+      "lastYear": 2026,
+      "years": 50,
+      "changePctFullSpan": -63.2,
+      "annual": [
+        {
+          "year": 1977,
+          "value": 73.1,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1978,
+          "value": 75.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 79.817,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 86.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 93.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 98.567,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 100.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 101.233,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 101.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 102.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 104.792,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 110.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 115.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 117.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 118.308,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 120.192,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 121.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 123.717,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 123.217,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 126.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 126.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 119.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 112.758,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 105.492,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 100.267,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 93.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 87.45,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 83.258,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 77.583,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 74.058,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 70.584,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 66.866,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 63.255,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 59.153,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 56.566,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 53.706,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 50.822,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 47.636,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 44.657,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 40.965,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 37.303,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 33.724,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 31.105,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 29.106,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 29.114,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 29.681,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 29.368,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 27.916,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 27.823,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 28.479,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 584
+    },
+    {
+      "id": "CUUR0000SEEE01",
+      "label": "Computers, peripherals, and smart home assistants",
+      "group": "fell",
+      "short": "Computers",
+      "firstYear": 1997,
+      "lastYear": 2026,
+      "years": 30,
+      "changePctFullSpan": -96,
+      "annual": [
+        {
+          "year": 1997,
+          "value": 1119,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1998,
+          "value": 875.017,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 598.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 459.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 330.65,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 248.042,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 196.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 170.933,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 143.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 121.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 108.409,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 94.944,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 82.304,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 76.377,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 68.901,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 62.334,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 56.759,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 52.597,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 47.905,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 44.428,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 42.564,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 40.849,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 39.371,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 38.3,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 39.422,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 39.022,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 37.029,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 35.747,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 34.759,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 35.772,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 344
+    },
+    {
+      "id": "CUUR0000SEEE02",
+      "label": "Computer software and accessories",
+      "group": "fell",
+      "short": "Software",
+      "firstYear": 1997,
+      "lastYear": 2026,
+      "years": 30,
+      "changePctFullSpan": -75.4,
+      "annual": [
+        {
+          "year": 1997,
+          "value": 100,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1998,
+          "value": 95.483,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 88.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 85.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 79.108,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 73.975,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 67.408,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 62.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 58.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 55.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 52.512,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 50.641,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 49.943,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 46.429,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 43.057,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 40.98,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 38.558,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 37.001,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 36.779,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 34.363,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 33.019,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 32.147,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 29.577,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 26.449,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 25.958,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 25.521,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 24.033,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 23.386,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 23.443,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 27.219,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 344
+    },
+    {
+      "id": "CUUR0000SEED03",
+      "label": "Wireless telephone services",
+      "group": "fell",
+      "short": "Wireless phone service",
+      "firstYear": 1997,
+      "lastYear": 2026,
+      "years": 30,
+      "changePctFullSpan": -51.1,
+      "annual": [
+        {
+          "year": 1997,
+          "value": 100,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1998,
+          "value": 95.125,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 84.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 75.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 68.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 67.375,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 66.825,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 66.217,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 64.975,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 64.55,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 64.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 64.24,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 64.257,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 62.395,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 60.147,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 59.678,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 58.617,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 57.378,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 55.216,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 54.679,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 48.84,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 47.596,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 46.393,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 47.329,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 48.156,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 47.937,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 47.785,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 47.075,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 46.51,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 45.475,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 345
+    },
+    {
+      "id": "CUUR0000SERA02",
+      "label": "Other video equipment",
+      "group": "fell",
+      "short": "Other video equipment",
+      "firstYear": 1983,
+      "lastYear": 2026,
+      "years": 44,
+      "changePctFullSpan": 474.4,
+      "annual": [
+        {
+          "year": 1983,
+          "value": 100,
+          "months": 1,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1984,
+          "value": 103.85,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 110.592,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 115.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 123.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 132.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 144.025,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 158.358,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 175.733,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 186.158,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 198.942,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 197.425,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 200.667,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 212.633,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 228.7,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 245.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 254.6,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 266.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 278.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 294.983,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 309.508,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 322.392,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 331.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 344.875,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 351.475,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 359.93,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 367.574,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 372.379,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 378.97,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 395.639,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 406.531,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 416.138,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 422.791,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 438.283,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 462.161,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 470.453,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 479.409,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 500.129,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 520.577,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 541.343,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 569.603,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 583.029,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 596.484,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 607.044,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 512
+    },
+    {
+      "id": "CUUR0000SEHJ",
+      "label": "Household furnishings and operations",
+      "group": "middle",
+      "short": "Furnishings",
+      "firstYear": 1947,
+      "lastYear": 2026,
+      "years": 80,
+      "changePctFullSpan": 160.5,
+      "annual": [
+        {
+          "year": 1947,
+          "value": 36.275,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1948,
+          "value": 39.8,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1949,
+          "value": 38.375,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1950,
+          "value": 39.225,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1951,
+          "value": 43.05,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1952,
+          "value": 42.025,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1953,
+          "value": 41.775,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1954,
+          "value": 41.375,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1955,
+          "value": 40.7,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1956,
+          "value": 41.075,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1957,
+          "value": 42.075,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1958,
+          "value": 41.775,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1959,
+          "value": 41.875,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1960,
+          "value": 41.975,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1961,
+          "value": 42.4,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1962,
+          "value": 42.6,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1963,
+          "value": 42.775,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1964,
+          "value": 42.85,
+          "months": 2,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1965,
+          "value": 43.15,
+          "months": 2,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1966,
+          "value": 44.3,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1967,
+          "value": 45.95,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1968,
+          "value": 48.35,
+          "months": 4,
+          "partial": true,
+          "full": false
+        },
+        {
+          "year": 1969,
+          "value": 50.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1970,
+          "value": 52.967,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1971,
+          "value": 54.575,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1972,
+          "value": 55.525,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1973,
+          "value": 57.425,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1974,
+          "value": 62.367,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1975,
+          "value": 67.35,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1976,
+          "value": 69.75,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1977,
+          "value": 72.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1978,
+          "value": 76.075,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1979,
+          "value": 81.208,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1980,
+          "value": 88.033,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1981,
+          "value": 93.8,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1982,
+          "value": 97.717,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1983,
+          "value": 100.142,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1984,
+          "value": 102.133,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1985,
+          "value": 104.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1986,
+          "value": 107.2,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1987,
+          "value": 109.708,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1988,
+          "value": 113.242,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1989,
+          "value": 113.908,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1990,
+          "value": 115.683,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1991,
+          "value": 116.608,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1992,
+          "value": 120.592,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1993,
+          "value": 123.517,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1994,
+          "value": 128.167,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1995,
+          "value": 130.858,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1996,
+          "value": 134.092,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1997,
+          "value": 134.458,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1998,
+          "value": 135.033,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 1999,
+          "value": 134.883,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2000,
+          "value": 134.383,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2001,
+          "value": 132.15,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2002,
+          "value": 129.433,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2003,
+          "value": 127.717,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2004,
+          "value": 127.3,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2005,
+          "value": 125.925,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2006,
+          "value": 126.975,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2007,
+          "value": 125.836,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2008,
+          "value": 124.535,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2009,
+          "value": 124.787,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2010,
+          "value": 119.738,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2011,
+          "value": 118.556,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2012,
+          "value": 120.225,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2013,
+          "value": 118.732,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2014,
+          "value": 115.539,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2015,
+          "value": 114.659,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2016,
+          "value": 112.064,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2017,
+          "value": 111.01,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2018,
+          "value": 111.055,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2019,
+          "value": 113.649,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2020,
+          "value": 113.705,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2021,
+          "value": 122.966,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2022,
+          "value": 137.954,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2023,
+          "value": 135.808,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2024,
+          "value": 131.114,
+          "months": 12,
+          "partial": false,
+          "full": true
+        },
+        {
+          "year": 2025,
+          "value": 132.631,
+          "months": 11,
+          "partial": true,
+          "full": true
+        },
+        {
+          "year": 2026,
+          "value": 134.293,
+          "months": 8,
+          "partial": true,
+          "full": false
+        }
+      ],
+      "monthlyPoints": 775
+    }
+  ]
+}
